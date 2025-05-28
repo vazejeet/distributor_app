@@ -1,23 +1,3 @@
-// class DistributorModel {
-//   final String businessName;
-//   final String address;
-//   final String status;
-
-//   DistributorModel({
-//     required this.businessName,
-//     required this.address,
-//     required this.status,
-//   });
-
-//   factory DistributorModel.fromJson(Map<String, dynamic> json) {
-//     return DistributorModel(
-//       businessName: json['business_name'] ?? '',
-//       address: json['address'] ?? '',
-//       status: json['status'] ?? 'Active',
-//     );
-//   }
-// }
-
 
 
 class DistributorModel {
